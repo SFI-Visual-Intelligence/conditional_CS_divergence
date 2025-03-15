@@ -6,4 +6,4 @@ The implementation of conditional Cauchy-Schwarz divergence in the following pap
 
 link: https://arxiv.org/abs/2301.08970
 
-status: under minor revision of IEEE Transactions in Pattern Analysis and Machine Intelligence, 2024
+status: accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025
