@@ -1,8 +1,8 @@
-# conditional_CS_divergence (coming soon)
+# conditional_CS_divergence
 
 The implementation of conditional Cauchy-Schwarz divergence in the following paper
 
-"The conditional cauchy-schwarz divergence with applications to time-series data and sequential decision making"
+"The conditional Cauchy-Schwarz divergence with applications to time-series data and sequential decision making"
 
 link: https://arxiv.org/abs/2301.08970
 
